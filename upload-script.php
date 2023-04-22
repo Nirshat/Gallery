@@ -1,6 +1,6 @@
 <?php
 
-include_once "../Connection/connection.php";
+include_once "db-config.php";
 $con = connection();
 
 
